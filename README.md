@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zenith-Zenith
 - 👀 I’m interested in Computer programming.
 - 🌱 I’m currently learning C++ and DS/ALGO.
-- 💞️ I’m looking to collaborate on open source projects,
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ---> zenithcr7@gmail.com
 
 <!---
